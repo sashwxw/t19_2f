@@ -1,1 +1,2 @@
 Dodano nową linię tekstu
+To jest nowa linia w nowy_plik.txt
