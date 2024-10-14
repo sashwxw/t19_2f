@@ -1,2 +1,8 @@
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
 Dodano nową linię tekstu
+=======
+>>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
 To jest nowa linia w nowy_plik.txt
