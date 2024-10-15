@@ -1,2 +1,3 @@
 To jest plik testowy
 Dodano nową linię tekstu
+Zmiana w plik_testowy.txt
