@@ -1,3 +1,7 @@
 To jest plik testowy
 Dodano nową linię tekstu
+<<<<<<< HEAD
 Zmiana w plik_testowy.txt
+=======
+Poprawka błęndu
+>>>>>>> bugfix-branch
