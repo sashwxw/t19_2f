@@ -1,1 +1,2 @@
 dodanie nowego pliku
+Linia druga z nowej gałęzi
